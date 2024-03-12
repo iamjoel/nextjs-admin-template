@@ -1,4 +1,4 @@
-# Dify Enterprise - Frontend
+# Next.js Admin Template
 ## Feature
 * UI [Shadcn](https://ui.shadcn.com/docs)
 * [Tailwind CSS](https://tailwindcss.com/docs/margin)
