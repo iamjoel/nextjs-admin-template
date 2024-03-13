@@ -1,4 +1,8 @@
 # Next.js Admin Template
+<p align="center">
+  <a href="./README_CN.md">简体中文</a>
+</p>
+
 ## Feature
 * UI [Shadcn](https://ui.shadcn.com/docs)
 * [Tailwind CSS](https://tailwindcss.com/docs/margin)
